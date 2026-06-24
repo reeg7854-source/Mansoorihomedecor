@@ -1,0 +1,60 @@
+# Product Prices - Mansoori Home Decor
+
+## Instructions:
+Update prices in this file and they will be reflected on your website.
+Follow the format: `PRODUCT_ID: price`
+
+---
+
+## BLANKETS
+blanket_mink: 2499
+blanket_generic: 1599
+blanket_supersoft: 1899
+
+## RAZAI (CHARU)
+razai_traditional: 3299
+razai_luxury_cotton: 4499
+razai_lightweight: 2999
+razai_wool: 5999
+
+## MATTRESSES
+mattress_pu_foam: 5999
+mattress_bonded: 4499
+mattress_supersoft: 6999
+mattress_ep_white: 7499
+mattress_branded: 8999
+
+## EP FOAM
+ep_foam_standard: 1299
+ep_foam_premium: 1799
+ep_foam_heavy_duty: 2299
+
+## EP ROLLS
+ep_roll_standard: 999
+ep_roll_premium: 1499
+ep_roll_industrial: 1999
+
+## BED SHEETS
+bedsheet_cotton: 1799
+bedsheet_premium: 2299
+bedsheet_luxury: 2799
+
+## PILLOWS
+pillow_memory_foam: 1499
+pillow_cotton: 999
+pillow_luxury: 1899
+
+## CURTAINS
+curtain_velvet: 3999
+curtain_cotton: 2999
+curtain_silk: 4999
+
+## FLOOR MATS
+mat_pvc: 799
+mat_rubber: 1299
+mat_cushioned: 1799
+
+## ARTIFICIAL GRASS
+grass_standard: 2199
+grass_premium: 2999
+grass_heavy_duty: 3499
